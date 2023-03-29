@@ -1,2 +1,2 @@
-# react-next-plate-project
+# next-plate-react-project
 Created with CodeSandbox
